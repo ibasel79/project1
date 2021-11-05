@@ -37,8 +37,9 @@ in this project i came cross a dataset regarding the sales of video games around
 
 ## File Descriptions <a name="files"></a>
 
-a notebook that has the completed work for the above questions markedown cells were used to provide a wallk through the thought process of preparing and analysing the dataset.
+- a notebook that has the completed work for the above questions markedown cells were used to provide a wallk through the thought process of preparing and analysing the dataset.
 
+- the dataset that was analysed  
 
 ## Results<a name="results"></a>
 
