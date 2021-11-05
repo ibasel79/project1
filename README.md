@@ -42,7 +42,7 @@ a notebook that has the completed work for the above questions markedown cells w
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available [here](https://medium.com/@baselma3/what-is-the-most-profitable-genre-in-video-games-aa2167239e38).
 
 ## Acknowledgements<a name="Acknowledgements"></a>
 
