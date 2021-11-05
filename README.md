@@ -46,6 +46,6 @@ The main findings of the code can be found at the post available here.
 
 ## Acknowledgements<a name="Acknowledgements"></a>
 
-the dataset used by SID_TWR at kaggle [link to the dataset](https://www.kaggle.com/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv)
+the dataset made by SID_TWR at kaggle [link to the dataset](https://www.kaggle.com/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv)
 
 
